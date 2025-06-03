@@ -6,4 +6,4 @@
 
 Este es el repositorio para la materia BDR de la MCD.
 
-- Tarea 1 
+- Tarea 1 a

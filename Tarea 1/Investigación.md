@@ -98,9 +98,7 @@ Existen distintos tipos de SGBD:
 
 PostgreSQL es un SGBD relacional de código abierto reconocido por su potencia, fiabilidad y cumplimiento del estándar SQL. Las razones por las que se elige PostgreSQL para este proyecto son:
 
-- Principal y más importante, porque quiero aprenderlo
+- Principal y más importante, porque quiero aprenderlo.
 - Compatibilidad con tipos de datos avanzados.
 - Comunidad activa y documentación completa.
 - Es multiplataforma y gratuito.
-
-> PostgreSQL ha sido clasificado como uno de los SGBD más completos en informes de Stack Overflow y DB-Engines (2024).

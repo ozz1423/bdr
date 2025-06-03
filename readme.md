@@ -6,7 +6,7 @@
 
 Este es el repositorio para la materia BDR de la MCD.
 
-- [Tarea 1] (/wriserch.md)
+- [Tarea 1] (Tarea%201/wriserch.md)
 - [Tarea 2]
 - [Tarea 3]
 - [Tarea 4]

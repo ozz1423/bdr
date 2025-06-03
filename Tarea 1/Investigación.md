@@ -56,7 +56,7 @@ Contiene información de cada partido jugado en la liga.
 | Atributo             | Tipo de Dato     | Descripción                            |
 |----------------------|------------------|----------------------------------------|
 | ID_PARTIDO           | SERIAL (PK)      | Identificador único del partido        |
-| SEMANA               | INTEGER          | Semana de la competencia               |
+| SEMANA               | INTEGER          | Semana de la competencia (jornada)               |
 | DIA                  | VARCHAR(15)      | Día del partido                        |
 | FECHA                | DATE             | Fecha del encuentro                    |
 | HORA                 | TIME             | Hora del partido                       |
@@ -98,6 +98,7 @@ Existen distintos tipos de SGBD:
 
 PostgreSQL es un SGBD relacional de código abierto reconocido por su potencia, fiabilidad y cumplimiento del estándar SQL. Las razones por las que se elige PostgreSQL para este proyecto son:
 
+- Principal y más importante, porque quiero aprenderlo
 - Compatibilidad con tipos de datos avanzados.
 - Comunidad activa y documentación completa.
 - Es multiplataforma y gratuito.

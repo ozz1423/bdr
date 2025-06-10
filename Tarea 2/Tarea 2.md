@@ -82,6 +82,9 @@ Contiene información de cada partido jugado en la liga.
 
 ## Modelo E-R
 
+## Modelo E-R
+![Modelo Entidad-Relación](/Tarea%203/diagrama%20er.png)
+
 ```mermaid
   erDiagram
 

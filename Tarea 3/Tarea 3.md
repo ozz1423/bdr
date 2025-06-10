@@ -59,17 +59,17 @@
 ## Operaciones usando álgebra relacional
 
 ### Operación 1
-Obtiene todos los jugadores que han marcado por lo menos un gol.
+Obtiene todos los jugadores que han marcado por lo menos un gol.  
 Álgebra relacional: σ_GOLES > 0 (JUGADOR)
 
 ### Operación 2
-Obtiene los jugadores más consistentes en cuanto a tiempo jugado.
+Obtiene los jugadores más consistentes en cuanto a tiempo jugado.  
 Álgebra relacional: σ_MINUTOS > 1000 (JUGADOR)
 
 ### Operación 3
-Obtiene las goleadas más fuertes de local.
+Obtiene las goleadas más fuertes de local.  
 Álgebra relacional: σ_(MARCADOR_LOCAL - MARCADOR_VISITANTE) ≥ 3 (PARTIDO)
 
 ### Operación 4
-Obtiene los jugadores con más partidos de titular.
+Obtiene los jugadores con más partidos de titular.  
 Álgebra relacional: τ_DESC(TITULAR)(π_ID_JUGADOR, NOMBRE, EQUIPO_ID, TITULAR (JUGADOR))

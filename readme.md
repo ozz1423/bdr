@@ -8,3 +8,4 @@ Este es el repositorio para la materia BDR de la MCD.
 
 - [Tarea 1](/Tarea%201/Investigación.md)
 - [Tarea 2](/Tarea%202/Tarea%202.md)
+- [Tarea 3](/Tarea%203/diagrama%20er.png)
